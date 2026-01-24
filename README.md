@@ -12,8 +12,8 @@ See
 * [Freematics OBD-II I2C Adapter](https://freematics.com/pages/products/arduino-obd-adapter/)
 * [OBD-II Telematics Mega Kit](https://freematics.com/pages/products/arduino-telematics-kit-3/)
 
-![Image](http://www.arduinodev.com/wp-content/uploads/2012/03/obdkit1-150x150.jpg)
-<img src="https://raw.githubusercontent.com/DennisHartrampf/DennisHartrampf/master/img/header.jpg"
+![Image](http://raw.githubusercontent.com/CernJu/CernJu/master/img/AndroidApp.jpg)
+
 
 About the library
 -----------------
