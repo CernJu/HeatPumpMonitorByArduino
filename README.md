@@ -12,7 +12,7 @@ See
 * [Freematics OBD-II I2C Adapter](https://freematics.com/pages/products/arduino-obd-adapter/)
 * [OBD-II Telematics Mega Kit](https://freematics.com/pages/products/arduino-telematics-kit-3/)
 
-![Image](http://raw.githubusercontent.com/CernJu/CernJu/master/img/AndroidApp.jpg)
+![Image](http://raw.githubusercontent.com/CernJu/HeatPumpMonitorByArduino/master/img/AndroidApp.jpg)
 
 
 About the library
