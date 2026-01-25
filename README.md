@@ -1,11 +1,11 @@
 
-HeatPump Controlled by Arduino
+Heat Pump Controlled by Arduino
 ===============================
 
 (C) 2015-2019 
 
 
-Common mobile AC has been modified for heating small water pool... embedded temperature sensors, powermeter, flowmeter are controled by CU based on arduino platform. The performance of that heat pump is monitored on android App via bluetooth.
+Common mobile AC has been modified for heating small water pool... embedded temperature sensors, power meter, flowmeter are controlled by CU based on Arduino platform. The performance of that heat pump is monitored by Android App via Bluetooth.
 
 
 <h3>IN ACTION</h3>
