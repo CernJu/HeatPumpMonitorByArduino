@@ -2,32 +2,16 @@
 HeatPumpMonitor-Arduino
 =======================
 
-(C)2015-2019 
+(C) 2015-2019 
+
 
 Common mobile AC has been modified for heating small water pool... embedded temperature sensors, powermeter, flowmeter are controled by CU based on arduino platform. The performance of that heat pump is monitored on android App via bluetooth.
 
-See 
 
-* [Freematics OBD-II UART Adapter](https://freematics.com/pages/products/freematics-obd-ii-uart-adapter-mk2/)
-* [Freematics OBD-II I2C Adapter](https://freematics.com/pages/products/arduino-obd-adapter/)
-* [OBD-II Telematics Mega Kit](https://freematics.com/pages/products/arduino-telematics-kit-3/)
+<h3>PERFORMANCE</h3>
 
-![Image](http://raw.githubusercontent.com/CernJu/HeatPumpMonitorByArduino/master/img/AndroidApp.jpg)
+COP of modified Heat Pump
 
+![Image](http://raw.githubusercontent.com/CernJu/HeatPumpMonitorByArduino/master/img/AndroidApp250.jpg) 
+![Image](http://raw.githubusercontent.com/CernJu/HeatPumpMonitorByArduino/master/img/DeviceInAction600.jpg) 
 
-About the library
------------------
-Most commonly use PIDs are defined in OBD library as followings.
-
-Engine
-
-    PID_RPM – Engine RPM (rpm)
-    PID_ENGINE_LOAD – Calculated engine load (%)
-    PID_COOLANT_TEMP – Engine coolant temperature (°C)
-    PID_ABSOLUTE_ENGINE_LOAD – Absolute Engine load (%)
-    PID_TIMING_ADVANCE – Ignition timing advance (°)
-    PID_ENGINE_OIL_TEMP – Engine oil temperature (°C)
-    PID_ENGINE_TORQUE_PERCENTAGE – Engine torque percentage (%)
-    PID_ENGINE_REF_TORQUE – Engine reference torque (Nm)
-
-Intake/Exhaust
