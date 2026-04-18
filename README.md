@@ -1,23 +1,8 @@
-
-Heat Pump Controlled by Arduino
-===============================
-
-(C) 2015-2019 
+# 📈 Heat Pump Controlled by Arduino Uno
 
 
-Common mobile AC has been modified for heating small water pool... embedded temperature sensors, power meter, flowmeter are controlled by CU based on Arduino platform. The performance of that heat pump is monitored by Mobile App (Apache Cordova) via Bluetooth.
+👉 **[Zobraziť stránku s grafmi a dizajnom tu](https://cernju.github.io/HeatPumpMonitorByArduino/)**
 
-
-<h3>IN ACTION</h3>
-
-  Heat Pump heats the pool
-  
-![Image](http://raw.githubusercontent.com/CernJu/HeatPumpMonitorByArduino/master/img/DeviceInAction600.jpg) 
-
-<h3>PERFORMANCE</h3>
-
-  COP of modified Heat Pump
-
-![Image](http://raw.githubusercontent.com/CernJu/HeatPumpMonitorByArduino/master/img/AndroidApp250.jpg) 
-
+## The aim achieved:
+The combination of engineering and programming resulted in home made Heat Pump of reasonable performance.
 
